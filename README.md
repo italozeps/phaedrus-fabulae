@@ -1,2 +1,0 @@
-# phaedrus-fabulae
-Phaedri fabulae
