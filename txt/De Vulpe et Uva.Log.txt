@@ -1,0 +1,904 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1257">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>de                 PREP   ABL                              </TITLE>
+</HEAD>
+<BODY>
+
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=590>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>de                 PREP   ABL                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>down from, from; about, of, concerning; according to;                         </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vulp.e             N      3 3 ABL S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fox                                                                           </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>et                 CONJ                                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>and, and even; also, even;  (et ... et = both ... and)                        </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>uv.a              N      1 1 ABL S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>grape</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fam.e              N      3 3 ABL S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>hunger; famine, want; craving                                                 </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>coact.a            ADJ    1 1 NOM S F POS                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>compressed, condensed/curdled (milk); unnatural; unwilling, forced, required  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>coact.a            VPAR   3 1 NOM S F PERF PASSIVE PPL X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>collect, gather; force, compel; restrict, confine                             </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vulpes             N      3 3 NOM S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fox                                                                           </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>alt.a              ADJ    1 1 ABL S F X                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>alt.a              ADJ    1 1 NOM P N X                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>high, deep, profound; shrill; lofty, noble; deeply rooted; far-fetched;       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>in                 PREP   ABL                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>in, on, at (space); in accordance with/regard to/the case of; within (time)   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vine.a             N      1 1 ABL S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vineyard, plantation of vines; a vine; (movable) bower-like shed for shelter  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> uv.am              N      1 1 ACC S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>grape</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>adpet.ebat         V      3 1 IMPF ACTIVE  IND 3 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>seek/grasp after, desire; assail; strive eagerly/long for; approach, near     </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>sum.mis            ADJ    1 1 ABL P X SUPER                </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>highest, the top of; greatest; last; the end of;                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>sali.ens           VPAR   3 4 NOM S X PRES ACTIVE  PPL X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>leap, jump                                                                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vir.ibus           N      3 3 ABL P F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>strength (bodily) (pl.), force, power, might, violence; resources; large body </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>qu.am              PRON   1 0 ACC S F REL                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>who, which;                                                                   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>tang.ere           V      3 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>touch, strike; border on, influence; mention                                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>ut                 CONJ                                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>to (+ subj), in order that/to; how, as, when, while; even if                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>non                ADV    POS                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>not, by no means, no; (non modo ... sed etiam (conj.) =&gt; not only ... but also</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>potu.it            V      5 2 PERF ACTIVE  IND 3 S TO_BEING</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>be able, can; multum  posse =&gt; to have much (more, most) influence or power   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>disced.ens         VPAR   3 1 NOM S X PRES ACTIVE  PPL X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>go/march off, depart, withdraw; scatter, dissipate; abandon; lay down (arms)  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>a.it               V      7 1 PRES ACTIVE  IND 3 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>a.it               V      7 1 PERF ACTIVE  IND 3 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>say (defective), assert; say yes, affirm, assent                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>nondum             ADV    POS                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>not yet                                                                       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>matur.a            ADJ    1 1 NOM S F X                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>early, speedy; ripe; mature, mellow; timely, seasonable                       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>.es                V      5 1 PRES ACTIVE  IND 2 S TO_BE   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>to be, exist; also used to form verb perfect passive tenses with NOM PERF PPL </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>nol.o              V      6 2 PRES ACTIVE  IND 1 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>be unwilling; wish not to; refuse to                                          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>acerb.am           ADJ    1 1 ACC S F POS                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>harsh, bitter, grievous; gloomy, dark                                         </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>sum.ere            V      3 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>take up; begin; suppose, assume; select; purchase; exact (punishment); obtain </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>qu.i               PRON   1 1 NOM S M REL                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>who, which;                                                                   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fac.ere            V      3 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>do, make; create; acquire; cause, bring about, fashion; compose; accomplish   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>qu.ae              PRON   1 8 ACC P N INDEF                </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>any; some; someone (preceded by si, nisi, numquid, ne), something, anyone     </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>non                ADV    POS                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>not, by no means, no; (non modo ... sed etiam (conj.) =&gt; not only ... but also</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>poss.unt           V      5 2 PRES ACTIVE  IND 3 P TO_BEING</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>be able, can; multum  posse =&gt; to have much (more, most) influence or power   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>verb.is            N      2 2 ABL P N T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>word; proverb; verba dare alicui =&gt; to cheat, to deceive someone              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>elev.ant           V      1 1 PRES ACTIVE  IND 3 P X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>lift up, raise; alleviate; lessen; make light of                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>adscribere    V       3 1 PRES ACTIVE  INF 0 X TRANS            </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>common &gt; adscribo, adscribere, adscripsi, adscriptus</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>add/state in writing, insert; appoint; enroll, enfranchise; reckon, number</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>h.oc               PRON   3 1 ACC S N ADJECT               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>this; these (pl.); also DEMONST                                               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>deb.ebunt          V      2 1 FUT  ACTIVE  IND 3 P X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>owe, in debt; be responsible for/obliged/bound/destined; ought, must, should  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>exempl.um          N      2 2 ACC S N T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>sample, specimen, representative; precedent, case; pattern, model; warning    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>s.ibi              PRON   5 4 DAT X C REFLEX               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>of himself, herself, itself; of themselves (pl.)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>interpretatio      N      3 1 NOM S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>interpretation; meaning                                                       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>latin.a            ADJ    1 1 NOM S F POS                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>Latin                                                                         </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vulpes             N      3 3 NOM S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fox                                                                           </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>inedi.a            N      1 1 NOM S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fasting, starvation                                                           </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>in                 PREP   ABL                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>in, on, at (space); in accordance with/regard to/the case of; within (time)   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vit.e              N      3 3 ABL S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vine; grape vine                                                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>sublim.i           ADJ    3 2 ABL S X X                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>high, lofty; eminent, exalted, elevated; raised on high; in high position     </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>uv.am              N      1 1 ACC S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>grape                                                                         </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>appet.ebat         V      3 1 IMPF ACTIVE  IND 3 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>seek/grasp after, desire; assail; strive eagerly/long for; approach, near     </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>assili.ens         VPAR   3 4 NOM S X PRES ACTIVE  PPL X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>leap up, rush (at)                                                            </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>tot.is             ADJ    1 3 ABL P X POS                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>the whole, all, entire, total, complete; every part; all together/at once     </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>vir.ibus           N      3 3 ABL P F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>strength (bodily) (pl.), force, power, might, violence; resources; large body </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>ubi                CONJ                                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>where, whereby                                                                </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>h.anc              PRON   3 1 ACC S F ADJECT               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>this; these (pl.); also DEMONST                                               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>atting.ere         V      3 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>touch/border upon, touch; reach, arrive at, achieve; mention in passing       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>nequiv.it          V      6 1 PERF ACTIVE  IND 3 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>be unable, cannot                                                             </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>abi.ens            VPAR   6 1 NOM S X PRES ACTIVE  PPL X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>depart, go away; go off, go forth; pass away, die, disappear; be changed      </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>dix.it             V      3 1 PERF ACTIVE  IND 3 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>say, talk; tell, call; name, designate; assert; set, appoint; plead; order    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>adhuc              ADV    POS                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>thus far, till now, to this point; hitherto; yet, as yet; still; besides      </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>non                ADV    POS                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>not, by no means, no; (non modo ... sed etiam (conj.) =&gt; not only ... but also</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>.est               V      5 1 PRES ACTIVE  IND 3 S TO_BE   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>to be, exist; also used to form verb perfect passive tenses with NOM PERF PPL </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>mit.is             ADJ    3 2 NOM S C POS                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>mild, meek, gentle, placid, soothing; clement; ripe, sweet and juicy          </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>non                ADV    POS                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>not, by no means, no; (non modo ... sed etiam (conj.) =&gt; not only ... but also</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>cupi.o             V      3 1 PRES ACTIVE  IND 1 S X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>favor, wish, be eager for; desire, long for, covet                            </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>asper.am           ADJ    1 2 ACC S F POS                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>rough, harsh, severe; uneven; sour; rude, violent, savage; wayward;           </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>cap.ere            V      3 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>take hold of, seize, arrest; occupy, rent, hire; capture; captivate, enamor   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>qu.i               PRON   1 1 NOM S M REL                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>who, which;                                                                   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>verb.is            N      2 2 ABL P N T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>word; proverb; verba dare alicui =&gt; to cheat, to deceive someone              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>minu.unt           V      3 1 PRES ACTIVE  IND 3 P X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>lessen, reduce, diminish, impair, abate                                       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>i.d                PRON   4 1 ACC S N PERS                 </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>he, she, it, they; also DEMONST that, he, she, it, they, them                 </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>qu.od              PRON   1 7 ACC S N REL                  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>who, which;                                                                   </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>praest.are         V      1 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>excel, exhibit; keep; perform, discharge, fulfill;                            </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>neque.unt          V      6 1 PRES ACTIVE  IND 3 P X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>be unable, cannot                                                             </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P> </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>deb.ebunt          V      2 1 FUT  ACTIVE  IND 3 P X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>owe, in debt; be responsible for/obliged/bound/destined; ought, must, should  </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>s.ibi              PRON   5 4 DAT X C REFLEX               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>of himself, herself, itself; of themselves (pl.)                              </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>assign.are         V      1 1 PRES ACTIVE  INF 0 X X       </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>assign; impute                                                                </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>h.anc              PRON   3 1 ACC S F ADJECT               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>this; these (pl.); also DEMONST                                               </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>fabul.am           N      1 1 ACC S F T                    </FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>story, tale, fable; play, drama; (fabulae! =&gt; rubbish!, nonsense!)</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2></FONT></BODY>
+</HTML>

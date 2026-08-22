@@ -1,0 +1,396 @@
+
+
+pastor             N       3 1 NOM S M P                             
+common > pastor, pastoris
+shepherd, herdsman
+
+
+
+et                 CONJ                                              
+common > and, and even; also, even;  (et ... et = both ... and)
+
+
+
+capell.a           N       1 1 NOM S F T                             
+common > capella, capellae
+she-goat; kid
+
+
+          
+
+
+nihil              N       9 9 X   X N T                             
+common > nihil, undeclined
+nothing;
+
+
+
+ita                ADV     POS                                       
+common > thus, so; therefore
+
+
+
+occult.um          VPAR    3 1 NOM S N PERF PASSIVE PPL X                
+PERF PASSIVE PPL often used as ADJ or N (amatus => belov.ed)
+common > occulo, occulere, occului, occultus
+cover; cover up, hide, cover over, conceal
+
+occult.um          ADJ     1 1 NOM S N POS                           
+common > occultus, occulta, occultum
+hidden, secret; in occulto => secretly
+
+
+
+.esse              V       5 1 PRES ACTIVE  INF 0 X TO_BE            
+very freq > sum, esse, fui, futurus
+to be, exist; also used to form verb perfect passive tenses with NOM PERF PPL
+
+
+
+quod               CONJ                                              
+common > because, as far as, insofar as; quod si => but if
+
+
+
+
+
+non                ADV     POS                                       
+common > not, by no means, no; (non modo ... sed etiam (conj.) => not only ... but also
+
+
+
+
+revel.atur         V       1 1 PRES PASSIVE IND 3 S X                
+common > revelo, revelare, revelavi, revelatus
+show; reveal
+
+
+          
+
+
+pastor             N       3 1 NOM S M P                             
+common > pastor, pastoris
+shepherd, herdsman
+
+
+
+capell.ae          N       1 1 DAT S F T                             
+common > capella, capellae
+she-goat; kid
+
+
+
+corn.u             N       4 2 ACC S N T                             
+common > cornu, cornus
+horn; hoof; bill; horn, trumpet; wing of an attacking army; mountain top
+
+
+
+bacul.o            N       2 2 ABL S N T                             
+common > baculum, baculi
+stick, walking stick, staff; lictor's rod/staff (not the fascas); scepter
+
+
+
+freg.erat          V       3 1 PLUP ACTIVE  IND 3 S X                
+common > frango, frangere, fregi, fractus
+break, shatter, crush; dishearten, subdue, weaken; move, discourage
+
+
+          
+
+
+rog.are            V       1 1 PRES ACTIVE  INF 0 X X                
+common > rogo, rogare, rogavi, rogatus
+ask, ask for; invite; introduce
+
+
+
+coep.it            V       3 1 PERF ACTIVE  IND 3 S PERFDEF          
+common >  - , - , coepi, coeptus
+began, have begun  (only in PERF system) (with passive INF, passive is used)
+
+
+
+ne                 CONJ                                              
+common > that not, least; (ne ... quidem (adv.) => not ... even)
+
+
+
+s.e                PRON    5 4 ACC X C PERS                          
+common > him/her/it-self; him/her/it; themselves (pl.); them; each other, one another
+
+
+
+domin.o            N       2 1 DAT S M P                             
+common > dominus, domini
+owner, master; Lord
+
+
+
+prod.eret          V       3 1 IMPF ACTIVE  SUB 3 S X                
+common > prodo, prodere, prodidi, proditus
+bring, bring out; produce; reveal, betray, give up
+
+
+          
+
+
+quamvis            CONJ                                              
+common > however much; although
+
+
+
+
+
+indign.e           ADV     POS                               uncommon          
+common > indignus, indigna, indignum
+unworthy, undeserving, shameful; undeserved; unbecoming
+
+
+
+laes.a             VPAR    3 1 NOM S F PERF PASSIVE PPL X                
+PERF PASSIVE PPL often used as ADJ or N (amatus => belov.ed)
+common > laedo, laedere, laesi, laesus
+strike; hurt, injure, wound; offend, annoy
+
+
+
+retic.ebo          V       2 1 FUT  ACTIVE  IND 1 S X                
+common > reticeo, reticere, reticui, - 
+keep silent; leave unsaid
+
+
+
+tamen              ADV     POS                                       
+common > yet, nevertheless, still
+
+
+          
+
+
+sed                CONJ                                              
+common > but, but also; yet; however, but in fact/truth; not to mention; yes but
+
+
+
+r.es               N       5 1 NOM S F T                             
+common > res, rei
+thing; event, business; fact; cause; property; (res familiaris => property)
+
+
+
+clam.abit          V       1 1 FUT  ACTIVE  IND 3 S X                
+common > clamo, clamare, clamavi, clamatus
+call out, call upon; proclaim, declare; shout; shout the name of
+
+
+
+ips.a              PRON    6 2 NOM S F DEMONS                        
+common > ipse, ipsa, ipsum
+himself, herself, itself; themselves (pl.);  the very one; identical
+
+
+
+qu.id              PRON    1 6 ACC S N INTERR                        
+common > who?, which one?, what man?, what thing? (type/nature); what kind of; what?
+
+
+
+deliqu.eris        V       3 1 PERF ACTIVE  SUB 2 S X                
+common > delinquo, delinquere, deliqui, delictus
+fail (in duty), be wanting, fall short; offend, do wrong, commit a fault
+
+
+
+
+
+interpretatio      N       3 1 NOM S F T                             
+common > interpretatio, interpretationis
+interpretation; meaning
+
+
+
+latin.a            ADJ     1 1 NOM S F POS                           
+common > Latinus, Latina, Latinum
+Latin
+
+
+
+
+
+
+
+custos             N       3 1 NOM S C P                             
+common > custos, custodis
+guard; protection; guardian; keeper, watchman, jailer; watch
+
+
+
+greg.is            N       3 1 GEN S C T                             
+frequent > grex, gregis
+flock, herd; crowd; company, crew; people/animals assembled; set/faction/class;
+
+
+
+capr.ae            N       1 1 GEN S F T                             
+capr.ae            N       1 1 DAT S F T                             
+common > capra, caprae
+she-goat
+
+
+
+parvul.ae          ADJ     1 1 GEN S F POS                           
+parvul.ae          ADJ     1 1 DAT S F POS                           
+common > parvulus, parvula, parvulum
+very small, very young; unimportant; slight, petty
+
+
+
+fust.e             N       3 3 ABL S M T                             
+common > fustis, fustis
+staff club; stick
+
+
+
+corn.u             N       4 2 ACC S N T                             
+common > cornu, cornus
+horn; hoof; bill; horn, trumpet; wing of an attacking army; mountain top
+
+
+
+rup.erat           V       3 1 PLUP ACTIVE  IND 3 S X                
+common > rumpo, rumpere, rupi, ruptus
+break; destroy
+
+
+ 
+
+
+ill.am             PRON    6 1 ACC S F ADJECT                        
+common > ille, illa, illud
+that; those (pl.); also DEMONST; the well known; the former
+
+
+
+or.are             V       1 1 PRES ACTIVE  INF 0 X X                
+common > oro, orare, oravi, oratus
+beg, ask for, pray; beseech, plead, entreat; worship, adore;
+
+
+
+
+occep.it           V       3 1 PERF ACTIVE  IND 3 S X                
+common > occipio, occipere, occepi, occeptus
+begin
+
+
+
+
+
+ne                 CONJ                                              
+common > that not, least; (ne ... quidem (adv.) => not ... even)
+
+
+
+er.o               N       2 1 DAT S M P                             
+common > erus, eri
+master, owner
+
+
+
+
+s.e                PRON    5 4 ACC X C PERS                          
+common > him/her/it-self; him/her/it; themselves (pl.); them; each other, one another
+
+
+
+indic.aret         V       1 1 IMPF ACTIVE  SUB 3 S X                
+common > indico, indicare, indicavi, indicatus
+point out, show, indicate, expose, betray, reveal; inform against, accuse
+
+
+
+
+
+
+
+etiamsi            CONJ                                              
+common > even if, although
+
+
+
+immerito           ADV     POS                                       
+common > unjustly; without cause
+
+
+
+offens.a           VPAR    3 1 NOM S F PERF PASSIVE PPL X                
+PERF PASSIVE PPL often used as ADJ or N (amatus => belov.ed)
+common > offendo, offendere, offendi, offensus
+offend, hurt (feelings)
+
+
+
+ 
+
+
+non                ADV     POS                                       
+common > not, by no means, no; (non modo ... sed etiam (conj.) => not only ... but also
+
+
+
+
+dic.am             V       3 1 PRES ACTIVE  SUB 1 S X                
+dic.am             V       3 1 FUT  ACTIVE  IND 1 S X                
+common > dico, dicere, dixi, dictus
+say, talk; tell, call; name, designate; assert; set, appoint; plead; order
+
+
+
+nihilominus        ADV     POS                                       
+common > never/none the less, notwithstanding, just the same; likewise, as well
+
+
+ 
+
+
+at                 CONJ                                              
+very freq > but, but on the other hand; on the contrary; while, whereas; but yet; at least
+
+
+
+corn.u             N       4 2 NOM S N T                             
+common > cornu, cornus
+horn; hoof; bill; horn, trumpet; wing of an attacking army; mountain top
+
+
+
+rupt.um            VPAR    3 1 NOM S N PERF PASSIVE PPL X                
+PERF PASSIVE PPL often used as ADJ or N (amatus => belov.ed)
+common > rumpo, rumpere, rupi, ruptus
+break; destroy
+
+
+
+signific.abit      V       1 1 FUT  ACTIVE  IND 3 S X                
+common > significo, significare, significavi, significatus
+signify, indicate, show
+
+
+
+ultro              ADV     POS                                       
+common > besides, beyond; to/on the further/other side; voluntarily, unaided; wantonly
+
+
+
+
+qu.id              PRON    1 6 ACC S N INTERR                        
+common > who?, which one?, what man?, what thing? (type/nature); what kind of; what?
+
+
+
+peccav.eris        V       1 1 FUTP ACTIVE  IND 2 S X                
+common > pecco, peccare, peccavi, peccatus
+sin, do wrong
+

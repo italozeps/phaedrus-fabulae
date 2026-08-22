@@ -1,0 +1,141 @@
+  1  Ex  2  Sutore
+  1  Ex  2  Sutore  3  Medicus
+  4  Malus  6  sutor
+  5  cum  12  coepisset  20  adquisivit
+  5  cum  15  venditaret  20  adquisivit
+  5  cum  12  coepisset  14  et  15  venditaret
+  6  sutor  9  medicinam  11  facere  12  coepisset
+  7  inopia  8  deperditus
+  9  medicinam  11  facere
+  10  ignoto  12  coepisset  13  loco
+  10  ignoto  13  loco
+  15  venditaret  16  falso  18  nomine
+  15  venditaret  17  antidotum
+  16  falso  18  nomine
+  19  verbosis  20  adquisivit  23  strophis
+  19  verbosis  20  adquisivit  22  famam  23  strophis
+  19  verbosis  23  strophis
+  20  adquisivit  21  sibi  22  famam
+  24  Hic  25  cum  26  iaceret
+  24  Hic  26  iaceret  30  rex
+  25  cum  26  iaceret  36  poposcit
+  26  iaceret  30  rex  31  urbis
+  26  iaceret  27  morbo  28  confectus
+  27  morbo  28  confectus  29  gravi
+  27  morbo  29  gravi
+  32  eius  33  experiendi  34  gratia
+  33  experiendi  34  gratia  36  poposcit
+  35  scyphum  36  poposcit  38  dein  47  iussit
+  35  scyphum  36  poposcit
+  37  fusa  40  aqua
+  39  simulans  46  combibere  47  iussit
+  39  simulans  43  miscere  45  toxicum
+  41  illius  43  miscere  44  antidoto  45  toxicum
+  41  illius  44  antidoto
+  42  se  43  miscere  45  toxicum
+  43  miscere  44  antidoto  45  toxicum
+  46  combibere  47  iussit  48  ipsum
+  46  combibere  48  ipsum
+  46  combibere  47  iussit
+  47  iussit  49  posito  50  praemio
+  51  Timore  52  mortis  55  confessus  56  est
+  51  Timore  52  mortis
+  53  ille  55  confessus  56  est
+  54  tum  55  confessus  56  est
+  55  confessus  56  est  66  factum  67  nobilem
+  57  non  62  prudentia  63  verum  64  stupore
+  57  non  59  ulla  62  prudentia  63  verum  64  stupore  66  factum  67  nobilem
+  57  non  62  prudentia  66  factum  67  nobilem
+  58  artis  59  ulla  60  medicum  61  se  62  prudentia  66  factum  67  nobilem
+  58  artis  60  medicum  62  prudentia
+  59  ulla  62  prudentia
+  61  se  62  prudentia  66  factum  67  nobilem
+  64  stupore  65  vulgi  66  factum  67  nobilem
+  64  stupore  65  vulgi
+  68  Rex  71  haec  72  edidit
+  69  advocata  70  contione
+  69  advocata  70  contione  72  edidit
+  73  Quantae  75  esse  77  dementiae
+  73  Quantae  77  dementiae
+  74  putatis  75  esse  76  vos
+  78  qui  81  non  82  dubitatis
+  79  capita  80  vestra  83  credere
+  81  non  82  dubitatis  83  credere
+  84  cui  86  nemo  87  commisit
+  85  calceandos  86  nemo  87  commisit  88  pedes
+  85  calceandos  88  pedes
+  89  Hoc  91  vere  94  dixerim
+  89  Hoc  90  pertinere  94  dixerim
+  90  pertinere  92  ad  93  illos
+  95  quorum  96  stultitia  97  quaestus  99  est
+  96  stultitia  97  quaestus  98  impudentiae  99  est
+  96  stultitia  97  quaestus  99  est
+  97  quaestus  98  impudentiae
+  102  Cum  107  occepisset  125  nomen  126  comparavit
+  103  solearius  107  occepisset
+  103  solearius  105  oppressus  106  paupertate
+  103  solearius  104  imperitus
+  107  occepisset  117  atque  118  venderet
+  107  occepisset  111  in  112  loco  113  ubi  115  erat
+  107  occepisset  108  artem  109  medicam  110  exercere
+  111  in  112  loco  113  ubi
+  113  ubi  115  erat  116  notus
+  114  non  115  erat  116  notus
+  118  venderet  119  falsum  120  medicamentum
+  119  falsum  121  pro  122  vero
+  120  medicamentum  121  pro  123  antidoto
+  121  pro  122  vero  123  antidoto
+  124  sibi  125  nomen  126  comparavit
+  125  nomen  126  comparavit  129  subdolis  130  verbis
+  125  nomen  126  comparavit  130  verbis
+  127  multis  128  et  129  subdolis  130  verbis
+  127  multis  130  verbis
+  129  subdolis  130  verbis
+  131  Cum  134  hoc  135  tempore  136  decumberet
+  132  rex  133  civitatis  136  decumberet
+  136  decumberet  137  affectus  138  morbo  139  gravi
+  140  ut  143  exploraret  145  petiit
+  140  ut  143  exploraret
+  141  illius  142  scientiam  143  exploraret
+  144  calicem  146  in  147  quem
+  144  calicem  145  petiit
+  148  infundens  150  simulavit  152  miscere
+  148  infundens  149  aquam
+  150  simulavit  157  deinde  160  imperavit
+  150  simulavit  151  se  152  miscere
+  151  se  152  miscere  153  venenum
+  152  miscere  154  cum  155  huius  156  antidoto
+  152  miscere  153  venenum  154  cum  156  antidoto
+  158  illi  159  exhaurire  160  imperavit
+  160  imperavit  161  proposita  162  mercede
+  163  Tum  167  fassus  168  est
+  164  solearius  167  fassus  168  est
+  165  metu  166  mortis  167  fassus  168  est
+  167  fassus  168  est  169  se  172  esse
+  169  se  170  famam  171  consecutum  172  esse
+  170  famam  171  consecutum  172  esse  178  stultitia  179  vulgi
+  170  famam  171  consecutum  173  non  174  scientia
+  173  non  174  scientia  177  sed  178  stultitia
+  173  non  174  scientia  175  artis  176  medicorum
+  180  Rex  184  locutus  185  est
+  181  civibus  182  adhibitis  184  locutus  185  est
+  183  sic  184  locutus  185  est
+  186  Quam  187  stultos  188  vos  189  esse
+  187  stultos  188  vos  189  esse
+  188  vos  189  esse  190  existimatis  191  qui  193  timetis
+  188  vos  189  esse  190  existimatis
+  191  qui  192  non  193  timetis
+  192  non  193  timetis  197  committere
+  194  vitam  196  ei  197  committere
+  194  vitam  195  vestram  197  committere
+  196  ei  198  cui  199  nullus  201  credidit
+  199  nullus  200  iam  201  credidit
+  201  credidit  202  pedes
+  202  pedes  203  calceis  204  induendos
+  205  Affirmaverit  207  vere  208  spectare
+  205  Affirmaverit  208  spectare
+  206  hoc  208  spectare  209  eos
+  208  spectare  209  eos  210  quorum  212  est
+  210  quorum  211  stupor  212  est  214  lucro
+  211  stupor  212  est  214  lucro
+  212  est  213  improbis  214  lucro

@@ -1,0 +1,522 @@
+
+serpens            N       3 3 NOM S C T                             
+common > serpens, serpentis
+serpent, snake
+
+
+
+et                 CONJ                                              
+common > and, and even; also, even;  (et ... et = both ... and)
+
+
+
+lacert.a           N       1 1 NOM S F T                             
+common > lacerta, lacertae
+lizard; Spanish mackerel
+
+
+
+ubi                CONJ                                              
+common > where, whereby
+
+
+
+leon.is            N       3 1 GEN S M T                             
+common > leo, leonis
+lion
+
+
+
+pellis             N       3 3 NOM S F T                             
+common > pellis, pellis
+skin, hide; pelt
+
+
+
+defic.it           V       3 1 PRES ACTIVE  IND 3 S X                
+common > deficio, deficere, defeci, defectus
+fail, disappoint; desert, abandon; grow weak; revolt, rebel; be lacking
+
+
+
+vulpin.am          ADJ     1 1 ACC S F POS                           
+common > vulpes, vulpis
+fox
+
+
+
+
+insu.endam         VPAR    3 1 ACC S F FUT  PASSIVE PPL X        rare      Late    
+common > insuo, insuere, insui, insutus
+sew up (in), sew (on or in)
+
+
+
+.esse              V       5 1 PRES ACTIVE  INF 0 X TO_BE            
+very freq > sum, esse, fui, futurus
+to be, exist; also used to form verb perfect passive tenses with NOM PERF PPL
+
+
+
+h.oc               PRON    3 1 NOM S N ADJECT                        
+common > hic, haec, hoc
+this; these (pl.); also DEMONST
+
+
+
+.est               V       5 1 PRES ACTIVE  IND 3 S TO_BE            
+very freq > sum, esse, fui, futurus
+to be, exist; also used to form verb perfect passive tenses with NOM PERF PPL
+
+
+
+ubi                CONJ                                              
+common > where, whereby
+
+
+
+defici.unt         V       3 1 PRES ACTIVE  IND 3 P X                
+common > deficio, deficere, defeci, defectus
+fail, disappoint; desert, abandon; grow weak; revolt, rebel; be lacking
+
+
+
+vir.es             N       3 3 NOM P F T                     Late    
+common >  - , viris
+strength (bodily) (pl.), force, power, might, violence; resources; large body
+
+
+
+ast.u              N       4 1 ABL S M T                             
+common > astus, astus
+craft, cunning, guile; cunning procedure/method, trick, stratagem
+
+
+
+ut.endum           VPAR    3 1 NOM S N FUT  PASSIVE PPL DEP      rare      Late    
+ut.endum           VPAR    3 1 ACC S N FUT  PASSIVE PPL DEP      rare      Late    
+common > utor, uti, -, usus sum
+use, make use of, enjoy; enjoy the friendship of (with ABL)
+
+
+
+serpens            N       3 3 NOM S C T                             
+common > serpens, serpentis
+serpent, snake
+
+
+
+lacert.am          N       1 1 ACC S F T                             
+common > lacerta, lacertae
+lizard; Spanish mackerel
+
+
+
+forte              ADV     POS                                       
+common > by chance; perhaps, perchance; as luck would have it
+
+
+
+avers.am           ADJ     1 1 ACC S F POS                           
+very freq > aversus, aversa -um, aversior -or -us, aversissimus -a -um
+turned/facing away, w/back turned; behind, in rear; distant; averse; hostile
+
+
+
+prend.erat         V       3 1 PLUP ACTIVE  IND 3 S X                
+common > prendo, prendere, prendi, prensus
+take hold of, arrest; reach; understand; seize, grasp
+
+
+
+qu.am              PRON    1 0 ACC S F REL                           
+common > who, which;
+
+
+
+devor.are          V       1 1 PRES ACTIVE  INF 0 X X                
+common > devoro, devorare, devoravi, devoratus
+devour; consume, absorb, drink in; gulp down; use up; waste
+
+
+
+
+patul.a            ADJ     1 1 ABL S F POS                           
+common > patulus, patula, patulum
+wide open, gaping; wide-spreading
+
+
+
+cum                CONJ                                              
+common > when, while, as, since, although; as soon
+
+
+
+vel.let            V       6 2 IMPF ACTIVE  SUB 3 S X                
+common > volo, velle, volui, - 
+wish, want, prefer; be willing, will
+
+
+
+gul.a              N       1 1 ABL S F T                             
+common > gula, gulae
+throat, neck, gullet, maw; palate, appetite
+
+
+
+arripu.it          V       3 1 PERF ACTIVE  IND 3 S TRANS            
+very freq > arripio, arripere, arripui, arreptus
+take hold of; seize (hand/tooth/claw), snatch; arrest; assail; pick up, absorb
+
+
+
+ill.a              PRON    6 1 NOM S F ADJECT                        
+common > ille, illa, illud
+that; those (pl.); also DEMONST; the well known; the former
+
+
+
+prope              ADV     POS                                       
+common > prope, propius, proxime
+near, nearly; close by; almost
+
+
+
+iac.entem          VPAR    2 1 ACC S C PRES ACTIVE  PPL X                
+PRES ACTIVE PPL often used as ADJ or N (lov.ing, curl.y)
+common > iaceo, iacere, iacui, iacitus
+lie; lie down; lie ill/in ruins/prostrate/dead; sleep; be situated
+
+
+
+surcul.um          N       2 1 ACC S M T                             
+common > surculus, surculi
+shoot, sprout
+
+
+
+et                 CONJ                                              
+common > and, and even; also, even;  (et ... et = both ... and)
+
+
+
+pertinac.i         ADJ     3 1 DAT S X POS                           
+common > pertinax, (gen.), pertinacis
+persevering, obstinate; pertinacious
+
+
+
+mors.u             N       4 1 DAT S M T                     rare      Late    
+common > morsus, morsus
+bite, sting; anguish, pain; jaws; teeth
+
+
+
+transvers.um       ADJ     1 1 ACC S M POS                           
+common > transversus, transversa, transversum
+lying across/from side to side/on flank; moving across/at right angle
+
+
+
+ten.ens            VPAR    2 1 NOM S X PRES ACTIVE  PPL X                
+common > teneo, tenere, tenui, tentus
+hold, keep; comprehend; possess; master; preserve; tenere memoria => remember
+
+
+
+avid.um            ADJ     1 1 ACC S M POS                           
+very freq > avidus, avida -um, avidior -or -us, avidissimus -a -um
+greedy, eager, ardent, desirous of; avaricious, insatiable; lustful, passionate
+
+
+
+
+sollert.i          ADJ     3 1 ABL S X POS                           
+common > sollers, sollertis (gen.), sollertior -or -us, sollertissimus -a -um
+clever, dexterous, adroit, expert, skilled, ingenious, accomplished
+
+
+
+rict.um            N       4 1 ACC S M T                             
+common > rictus, rictus
+jaws; open mouth
+
+
+
+frenav.it          V       1 1 PERF ACTIVE  IND 3 S X                
+common > freno, frenare, frenavi, frenatus
+bridle; curb
+
+
+
+mor.a              N       1 1 ABL S F T                             
+common > mora, morae
+delay, hindrance, obstacle; pause
+
+
+
+
+
+praed.am           N       1 1 ACC S F T                             
+common > praeda, praedae
+booty, loot, spoils, plunder, prey
+
+
+
+dimis.it           V       3 1 PERF ACTIVE  IND 3 S X                
+common > dimitto, dimittere, dimisi, dimissus
+send away, send around; scatter; disband, dismiss; give up, abandon, desert;
+
+
+
+or.e               N       3 2 ABL S N T                             
+common > os, oris
+mouth, speech, expression; face; pronunciation
+
+
+
+serpens            N       3 3 NOM S C T                             
+common > serpens, serpentis
+serpent, snake
+
+
+
+inrit.am           ADJ     1 1 ACC S F POS                           
+common > inritus, inrita, inritum
+ineffective, useless, invalid; in vain
+
+
+
+interpretatio      N       3 1 NOM S F T                             
+common > interpretatio, interpretationis
+interpretation; meaning
+
+
+
+latin.a            ADJ     1 1 NOM S F POS                           
+common > Latinus, Latina, Latinum
+Latin
+
+
+
+viper.a            N       1 1 NOM S F T                             
+common > vipera, viperae
+viper, snake
+
+
+
+cas.u              N       4 1 ABL S M T                             
+common > casus, casus
+fall, overthrow; chance; misfortune; accident, emergency, calamity; fate
+
+casu               ADV     POS                                       
+common > by chance
+
+
+
+obiect.am          VPAR    3 1 ACC S F PERF PASSIVE PPL X                
+common > obicio, obicere, obieci, obiectus
+throw before/to, cast; object, oppose; upbraid; throw in one's teeth; present
+obiect.am          ADJ     1 1 ACC S F POS                           
+common > obiectus, obiecta, obiectum
+opposite
+
+
+
+lacert.am          N       1 1 ACC S F T                             
+common > lacerta, lacertae
+lizard; Spanish mackerel
+
+
+
+cep.erat           V       3 1 PLUP ACTIVE  IND 3 S X                
+common > capio, capere, cepi, captus
+take hold of, seize, arrest; occupy, rent, hire; capture; captivate, enamor
+
+
+
+cum                CONJ                                              
+common > when, while, as, since, although; as soon
+
+
+
+ill.am             PRON    6 1 ACC S F ADJECT                        
+common > ille, illa, illud
+that; those (pl.); also DEMONST; the well known; the former
+
+
+
+devor.are          V       1 1 PRES ACTIVE  INF 0 X X                
+common > devoro, devorare, devoravi, devoratus
+devour; consume, absorb, drink in; gulp down; use up; waste
+
+
+
+
+fauc.ibus          N       3 3 ABL P F T                             
+very freq > faux, faucis
+pharynx (usu. pl.), gullet, throat, neck, jaws, maw; narrow pass/shaft/strait;
+
+
+
+ampl.is            ADJ     1 1 ABL P X POS                           
+very freq > amplus, ampla -um, amplior -or -us, amplissimus -a -um
+great, large, spacious, wide, ample; distinguished, important, honorable
+
+
+
+cupiv.it           V       3 1 PERF ACTIVE  IND 3 S X                
+common > cupio, cupere, cupivi, cupitus
+favor, wish, be eager for; desire, long for, covet
+
+
+
+lacert.a           N       1 1 NOM S F T                             
+common > lacerta, lacertae
+lizard; Spanish mackerel
+
+
+
+ramul.um           N       2 1 ACC S M T                             
+common > ramulus, ramuli
+twig, little bough
+
+
+
+iuxta              ADV     POS                                       
+common > nearly; near, close to, near by, hard by, by the side of; just as, equally
+
+iuxta              PREP    ACC                                       
+common > near, (very) close to, next to; hard by, adjoining; on a par with; like
+
+
+
+iac.entem          VPAR    2 1 ACC S C PRES ACTIVE  PPL X                
+common > iaceo, iacere, iacui, iacitus
+lie; lie down; lie ill/in ruins/prostrate/dead; sleep; be situated
+
+
+
+prend.it           V       3 1 PERF ACTIVE  IND 3 S X                
+common > prendo, prendere, prendi, prensus
+take hold of, arrest; reach; understand; seize, grasp
+
+
+
+et                 CONJ                                              
+common > and, and even; also, even;  (et ... et = both ... and)
+
+
+
+mors.u             N       4 1 DAT S M T                     rare      Late    
+common > morsus, morsus
+bite, sting; anguish, pain; jaws; teeth
+
+
+
+pervicac.i         ADJ     3 1 DAT S X POS                           
+common > pervicax, (gen.), pervicacis
+stubborn, obstinate; firm, steadfast
+
+
+
+ex                 PREP    ABL                                       
+common > out of, from; by reason of; according to; because of, as a result of
+
+
+
+transvers.o        ADJ     1 1 ABL S N POS                           
+common > transversus, transversa, transversum
+lying across/from side to side/on flank; moving across/at right angle
+
+
+
+
+hab.ens            VPAR    2 1 NOM S X PRES ACTIVE  PPL X                
+common > habeo, habere, habui, habitus
+have, hold, consider, think, reason; manage, keep; spend or pass (time);
+
+
+
+os                 N       3 2 ACC S N T                             
+common > os, oris
+mouth, speech, expression; face; pronunciation
+
+
+
+
+improb.um          ADJ     1 1 ACC S N POS                           
+common > improbus, improba, improbum
+shameless; cruel; wicked, morally unsound; disloyal, ill-disposed, shameless
+
+
+
+praeclus.it        V       3 1 PERF ACTIVE  IND 3 S X                
+common > praecludo, praecludere, praeclusi, praeclusus
+close, block
+
+
+
+impediment.o       N       2 2 ABL S N T                             
+common > impedimentum, impedimenti
+hindrance, impediment; heavy baggage (of an army) (pl.)
+
+
+
+callid.o           ADJ     1 1 ABL S N POS                           
+common > callidus, callida, callidum
+crafty, sly, shrewd, cunning; expert, skillful, clever, dexterous, experienced
+
+
+
+ergo               ADV     POS                                       
+common > therefore; well, then, now
+
+
+
+viper.a            N       1 1 NOM S F T                             
+common > vipera, viperae
+viper, snake
+
+
+
+dimis.it           V       3 1 PERF ACTIVE  IND 3 S X                
+common > dimitto, dimittere, dimisi, dimissus
+send away, send around; scatter; disband, dismiss; give up, abandon, desert;
+
+
+
+rict.u             N       4 1 ABL S M T                             
+common > rictus, rictus
+jaws; open mouth
+
+
+
+praed.am           N       1 1 ACC S F T                             
+common > praeda, praedae
+booty, loot, spoils, plunder, prey
+
+
+
+qu.am              PRON    1 0 ACC S F REL                           
+common > who, which;
+
+
+
+
+comed.ere          V       3 1 PRES ACTIVE  INF 0 X X                
+common > comedo, comedere, comedi, comesus
+eat up, consume; waste, squander
+
+
+
+non                ADV     POS                                       
+common > not, by no means, no; (non modo ... sed etiam (conj.) => not only ... but also
+
+
+
+
+potu.it            V       5 2 PERF ACTIVE  IND 3 S TO_BEING         
+common > possum, posse, potui, - 
+be able, can; multum  posse => to have much (more, most) influence or power
+

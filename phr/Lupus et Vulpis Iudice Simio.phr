@@ -1,0 +1,77 @@
+  1  Lupus  2  et  3  Vulpis
+  4  Iudice  5  Simio
+  6  Quicumque  10  innotuit  15  amittit
+  6  Quicumque  10  innotuit
+  7  turpi  8  fraude  10  innotuit
+  8  fraude  9  semel  10  innotuit
+  9  semel  10  innotuit
+  11  etiam  12  si  14  dicit
+  12  si  14  dicit  15  amittit
+  12  si  13  verum  14  dicit
+  15  amittit  16  fidem
+  17  Hoc  18  adtestatur  21  fabula
+  17  Hoc  18  adtestatur
+  18  adtestatur  21  fabula
+  19  brevis  21  fabula
+  20  Aesopi  21  fabula
+  22  Lupus  23  arguebat  24  vulpem
+  23  arguebat  25  furti  26  crimine
+  23  arguebat  24  vulpem  26  crimine
+  27  negabat  30  esse  32  proximam
+  27  negabat  28  illa  29  se  30  esse
+  29  se  30  esse  31  culpae  32  proximam
+  33  Tunc  37  sedit
+  34  iudex  37  sedit
+  34  iudex  38  simius
+  35  inter  36  illos  37  sedit
+  39  Uterque  40  causam  42  perorassent
+  40  causam  42  perorassent  43  suam
+  40  causam  41  cum  42  perorassent
+  44  dixisse  45  fertur
+  44  dixisse  47  sententiam
+  44  dixisse  45  fertur  47  sententiam
+  44  dixisse  45  fertur  46  simius  47  sententiam
+  45  fertur  46  simius
+  48  Tu  49  non  50  videris
+  48  Tu  50  videris  51  perdidisse
+  49  non  50  videris  51  perdidisse
+  50  videris  51  perdidisse  52  quos  53  petis
+  51  perdidisse  52  quos  53  petis
+  54  te  56  subripuisse  57  quod  59  negas
+  54  te  55  credo  56  subripuisse
+  58  pulchre  59  negas
+  62  Quisquis  67  notus  68  factus  69  est  74  illi  75  non  76  creditur
+  62  Quisquis  67  notus  68  factus  69  est
+  63  ob  64  mendacium  67  notus
+  64  mendacium  65  inhonestum
+  66  semel  67  notus  68  factus  69  est
+  70  etsi  71  non  73  dicit
+  72  falsum  73  dicit
+  77  Fabula  81  illud  82  confirmat
+  77  Fabula  80  Aesopi
+  77  Fabula  78  non  79  longa
+  81  illud  82  confirmat
+  83  Lupus  84  vulpem  86  insimulabat
+  87  haec  88  contendebat
+  88  contendebat  89  se  90  non  91  esse
+  89  se  91  esse  92  participem
+  91  esse  92  participem  93  noxae
+  94  Dein  95  simius  98  consedit
+  95  simius  96  inter  97  hos  98  consedit
+  95  simius  99  arbiter
+  101  ambo  104  orationem  105  habuissent
+  102  pro  103  se  104  orationem  105  habuissent
+  106  simius  107  protulit  111  iudicium
+  107  protulit  108  ut  109  aiunt
+  108  ut  109  aiunt
+  110  tale  111  iudicium
+  112  Tu  126  dissimulas
+  112  Tu  113  non  114  videris
+  113  non  114  videris  119  et  120  opinor
+  113  non  114  videris  117  quod  118  postulas
+  114  videris  115  lupe  116  amisisse
+  115  lupe  116  amisisse  119  et  122  vulpes
+  115  lupe  116  amisisse
+  120  opinor  121  te  123  abstulisse
+  123  abstulisse  124  quod  126  dissimulas
+  125  bene  126  dissimulas
